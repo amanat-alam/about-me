@@ -2,10 +2,6 @@
 <body style="color:#E7E8EA; background-color:#1E203B;">
 
 <div align="center">
-<!--[IMG-20240909-WA0032](https://github.com/user-attachments/assets/c886156f-dfd0-45db-a485-842b377d8a4f)-->
-
-<img src="https://github.com/user-attachments/assets/c886156f-dfd0-45db-a485-842b377d8a4f" alt="loading img..." width="360px" height="auto" style="border-radius:50%; margin:30 0 0 0;">
-
 <h2>This is me, Amanat Alam, from Bangladesh </h2>
 </div>
 
